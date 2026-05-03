@@ -8,13 +8,13 @@ echo -e "${GREEN}=== PRABATH-MD BOT SETUP ===${NC}"
 echo -e "Let's deploy your bot! / අපි ඔයාගේ Bot එක deploy කරමු!"
 echo "-------------------------------------"
 
-echo -e "${CYAN}1. Enter your SESSION ID / ඔයාගේ SESSION ID එක ඇතුලත් කරන්න:${NC}"
+echo -e "PRABATH-MD~5wNjjF6ww531lki"
 read SESSION_ID
 
-echo -e "${CYAN}2. Enter your Bot Number (e.g., 947xxxxxx) / Bot ගේ නම්බර් එක (උදා: 947xxxxxx):${NC}"
+echo -e "94762391167"
 read BOT_NUMBER
 
-echo -e "${CYAN}3. Enter MongoDB/Database URL / MongoDB හෝ Database URL එක:${NC}"
+echo -e ""
 read DATABASE
 
 echo "-------------------------------------"
